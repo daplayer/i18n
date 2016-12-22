@@ -1,6 +1,7 @@
 {
   "app": {
     "album":  "album",
-    "single": "single"
+    "single": "single",
+    "artist": "artist"
   }
 }
