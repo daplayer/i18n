@@ -41,7 +41,7 @@ I18n.t('local.feedback.progress', {
   total:   200
 });
 // => "10 fichiers traités sur 200."
-~~
+~~~
 
 ## License
 
