@@ -3,5 +3,8 @@
   "description": "DaPlayer internationalization library",
   "license": "MIT",
   "version": "1.0.0",
-  "main": "./lib/daplayer-i18n.js"
+  "main": "./lib/daplayer-i18n.js",
+  "devDependencies": {
+    "mocha": "*"
+  }
 }
