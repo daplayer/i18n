@@ -12,11 +12,10 @@
     },
     "configuration": {
       "quality": {
-        "title": "Qualité des vidéos",
-        "720p": "720P",
-        "high": "HD",
-        "medium": "Moyenne",
-        "small": "Faible"
+        "title":  "Qualité vidéo",
+        "hd":     "HD (720p)",
+        "medium": "Moyenne (480p)",
+        "low":    "Basse (360p)"
       },
       "download": "Téléchargements YouTube"
     },

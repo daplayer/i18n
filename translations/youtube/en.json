@@ -12,11 +12,10 @@
     },
     "configuration": {
       "quality": {
-        "title": "Videos quality",
-        "720p": "720P",
-        "high": "HD",
-        "medium": "Medium",
-        "small": "Small"
+        "title":  "Videos quality",
+        "hd":     "HD (720p)",
+        "medium": "Medium (480p)",
+        "low":    "Low (360p)"
       },
       "download": "YouTube download"
     },
