@@ -2,6 +2,8 @@
   "app": {
     "album":  "album",
     "single": "single",
-    "artist": "artiste"
+    "artist": "artiste",
+    "track":  "piste",
+    "item":   "élément"
   }
 }
