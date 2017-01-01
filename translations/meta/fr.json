@@ -18,17 +18,10 @@
       "downloads":     "Téléchargements"
     },
     "add": "Ajouter",
-    "videos": "vidéos",
     "history": "Historique",
     "error": "Erreur",
     "errors": {
       "invalid_path": "Chemin non valide."
-    },
-    "search": {
-      "on": "Rechercher sur :",
-      "source": "Source :",
-      "in_your_collection": "Dans votre bibliothèque",
-      "on_internet": "Sur internet"
     },
     "menu": {
       "edit": {

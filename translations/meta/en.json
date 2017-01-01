@@ -18,17 +18,10 @@
       "downloads":     "Downloads"
     },
     "add": "Add",
-    "videos": "videos",
     "history": "History",
     "error": "Error",
     "errors": {
       "invalid_path": "Invalid path."
-    },
-    "search": {
-      "on": "Search on :",
-      "source": "Source :",
-      "in_your_collection": "In your collection",
-      "on_internet": "On the internet"
     },
     "menu": {
       "edit": {
