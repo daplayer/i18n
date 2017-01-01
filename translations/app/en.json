@@ -1,9 +1,13 @@
 {
   "app": {
-    "album":  "album",
-    "single": "single",
-    "artist": "artist",
-    "track":  "track",
-    "item":   "item"
+    "album":           "album",
+    "single":          "single",
+    "artist":          "artist",
+    "track":           "track",
+    "item":            "item",
+    "share":           "Share",
+    "download":        "Download",
+    "add_to_playlist": "Add to a playlist",
+    "tag":             "Edit tags"
   }
 }

@@ -17,12 +17,6 @@
       "configuration": "Configuration",
       "downloads":     "Downloads"
     },
-    "options": {
-      "share": "Share",
-      "download": "Download",
-      "add_to_playlist": "Add to playlist",
-      "tag": "Edit tags"
-    },
     "add": "Add",
     "title": "Title",
     "artist": "Artist",

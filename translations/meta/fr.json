@@ -17,12 +17,6 @@
       "configuration": "Configuration",
       "downloads":     "Téléchargements"
     },
-    "options": {
-      "share": "Partager",
-      "download": "Télécharger",
-      "add_to_playlist": "Ajout à une playlist",
-      "tag": "Tagguer"
-    },
     "add": "Ajouter",
     "title": "Titre",
     "artist": "Artiste",

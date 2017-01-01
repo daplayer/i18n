@@ -1,9 +1,13 @@
 {
   "app": {
-    "album":  "album",
-    "single": "single",
-    "artist": "artiste",
-    "track":  "piste",
-    "item":   "élément"
+    "album":           "album",
+    "single":          "single",
+    "artist":          "artiste",
+    "track":           "piste",
+    "item":            "élément",
+    "share":           "Partager",
+    "download":        "Télécharger",
+    "add_to_playlist": "Ajouter à une playlist",
+    "tag":             "Modifier les tags"
   }
 }
