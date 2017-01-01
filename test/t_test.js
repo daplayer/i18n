@@ -7,6 +7,12 @@ describe('#t', () => {
     assert.equal(I18n.t('foo.bar'), 'baz');
   });
 
+  it('should pick `app` keys if there is no nesting', () => {
+    I18n.cache = { app: { foo: 'bar' }};
+
+    assert.equal(I18n.t('foo'), 'bar');
+  });
+
   it('should replace placeholders given a hash', () => {
     I18n.cache = {foo: {bar: "Hello %{name}, you are %{age} years old!"}};
 
