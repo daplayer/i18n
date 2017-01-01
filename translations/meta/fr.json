@@ -18,14 +18,7 @@
       "downloads":     "Téléchargements"
     },
     "add": "Ajouter",
-    "title": "Titre",
-    "artist": "Artiste",
-    "genre": "Genre",
-    "album": "Album",
     "videos": "vidéos",
-    "video": "Vidéo",
-    "format": "Format",
-    "pick_picture": "Choisir une autre image",
     "history": "Historique",
     "error": "Erreur",
     "errors": {

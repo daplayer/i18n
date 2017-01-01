@@ -18,14 +18,7 @@
       "downloads":     "Downloads"
     },
     "add": "Add",
-    "title": "Title",
-    "artist": "Artist",
-    "genre": "Genre",
-    "album": "Album",
     "videos": "videos",
-    "video": "Video",
-    "format": "Format",
-    "pick_picture": "Choose a different picture",
     "history": "History",
     "error": "Error",
     "errors": {
