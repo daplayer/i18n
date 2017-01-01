@@ -2,7 +2,7 @@ require('./test_helper');
 
 describe('translation files', () => {
   it('should have the same keys', () => {
-    ['meta', 'local', 'soundcloud', 'youtube'].forEach((module) => {
+    ['meta', 'local', 'soundcloud', 'youtube', 'app'].forEach((module) => {
       var fr = JSON.parse(I18n.read(module, 'fr'));
       var en = JSON.parse(I18n.read(module, 'en'));
 
