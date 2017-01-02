@@ -45,7 +45,7 @@ I18n.t('local.feedback.progress', {
 
 ## License
 
-Copyright (c) 2016, Robin Dupret
+Copyright (c) 2016-2017, Robin Dupret
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
