@@ -10,7 +10,13 @@
       "path": "Medias location"
     },
     "feedback": {
-      "progress": "%{current} files processed out of %{total}."
+      "progress": "%{current} files processed out of %{total}.",
+      "tagging":  "%{current} files tagged out of %{total}."
+    },
+    "conflict": {
+      "title":  "Conflict problem...",
+      "reason": "An artist named <strong>%{new_name}</strong> already exists in your library.",
+      "action": "Do you want to merge these two artists or keep the name %{current_name} for the moment ?"
     }
   }
 }

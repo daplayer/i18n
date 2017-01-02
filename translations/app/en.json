@@ -13,6 +13,8 @@
     "download":        "Download",
     "add_to_playlist": "Add to a playlist",
     "tag":             "Edit tags",
-    "pick_picture":    "Choose a different picture"
+    "pick_picture":    "Choose a different picture",
+    "cancel":          "Cancel",
+    "merge":           "Merge"
   }
 }

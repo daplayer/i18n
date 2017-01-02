@@ -10,7 +10,13 @@
       "path": "Dossier des musiques"
     },
     "feedback": {
-      "progress": "%{current} fichiers traités sur %{total}."
+      "progress": "%{current} fichiers traités sur %{total}.",
+      "tagging":  "%{current} fichiers taggués sur %{total}."
+    },
+    "conflict": {
+      "title":  "Problème de conflit...",
+      "reason": "Un artiste nommé <strong>%{new_name}</strong> existe déjà dans votre bibliothèque.",
+      "action": "Voulez-vous fusionner ces deux artistes ou garder le nom %{current_name} pour l'instant ?"
     }
   }
 }
