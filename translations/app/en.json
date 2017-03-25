@@ -15,6 +15,7 @@
     "tag":             "Edit tags",
     "pick_picture":    "Choose a different picture",
     "cancel":          "Cancel",
-    "merge":           "Merge"
+    "merge":           "Merge",
+    "search":          "Search..."
   }
 }
