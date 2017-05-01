@@ -2,7 +2,7 @@
   "youtube": {
     "name": "YouTube",
     "connect": "Connect your YouTube account",
-    "connect_message": "Import your playlists, vidoos, favorites, etc.",
+    "connect_message": "Import your playlists, videos, favorites, etc.",
     "connect_sub_message": "Connect your YouTube account to have access to your whole library.",
     "disconnect": "Disconnect YouTube",
     "sidebar": {
